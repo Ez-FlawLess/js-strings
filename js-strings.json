@@ -1,4 +1,10 @@
 {
     "strings-enum-name": "StringsE",
-    "strings-enum-path": "./js-files/types/strings.types.ts"
+    "strings-enum-path": "./js-files/types/strings.types.ts",
+    "string-files": [
+        {
+            "name": "FA_STRINGS",
+            "path": "./js-files/constants/strings/fa-strings.ts"
+        }
+    ]
 }
